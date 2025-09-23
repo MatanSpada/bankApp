@@ -1,0 +1,40 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+.env
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+build/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# Logs
+*.log
+
+# Env files
+.env
+.env.local
+
+# Compiled binaries
+a.out
+envelop
